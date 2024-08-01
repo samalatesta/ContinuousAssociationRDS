@@ -5,14 +5,14 @@ respondent-driven sampling". In this paper, we develop a randomization test (Sem
 
 ## Files
 
-#### `\example` Directory
+#### `\example` 
 This directory contains `SPRTCA_example.Rmd` that includes code and documentation for using SPRTCA. We also provide a simulated data set `example.csv`. We walk through how to run SPRTCA with this data set. 
 
 
-#### `\sim` Directory 
+#### `\sim` 
 This directory contains code for simulating RDS data, code to run the simulation settings we included in the paper, and code that plots all simulation results. 
 
-#### `\application` Directory 
+#### `\application` 
 This directory contains the code for the application section of the paper where we applied SPRTCA to an RDS data set of people who smoke illicit drugs in a rural community in South Africa. 
 
 ## Contact
