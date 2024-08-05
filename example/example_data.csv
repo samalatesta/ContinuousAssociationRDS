@@ -1,0 +1,501 @@
+"id","rec.id","degree","wave","seed.id","sex","disease","age"
+1,0,8,0,1,"Female","Disease",30
+6,1,25,1,1,"Female","Disease",30
+12,1,9,1,1,"Female","Disease",29
+13,1,30,1,1,"Male","Disease",31
+17,13,3,2,1,"Female","No Disease",24
+20,6,3,2,1,"Female","Disease",30
+22,6,25,2,1,"Male","Disease",29
+23,6,12,2,1,"Female","Disease",28
+24,12,12,2,1,"Male","Disease",29
+28,12,10,2,1,"Male","Disease",28
+34,13,13,2,1,"Male","Disease",31
+40,20,29,3,1,"Female","Disease",28
+41,34,16,3,1,"Female","Disease",28
+42,23,20,3,1,"Female","Disease",28
+43,28,20,3,1,"Male","Disease",29
+44,23,30,3,1,"Male","No Disease",25
+47,17,2,3,1,"Female","Disease",30
+52,28,14,3,1,"Male","Disease",27
+53,22,2,3,1,"Female","Disease",31
+56,20,23,3,1,"Male","Disease",29
+63,34,16,3,1,"Male","Disease",29
+71,28,13,3,1,"Female","Disease",29
+73,23,6,3,1,"Female","Disease",28
+84,17,4,3,1,"Female","No Disease",24
+86,24,14,3,1,"Female","Disease",29
+87,22,17,3,1,"Female","No Disease",24
+89,24,16,3,1,"Male","No Disease",25
+94,86,25,4,1,"Female","No Disease",24
+95,84,28,4,1,"Male","No Disease",24
+99,89,13,4,1,"Male","No Disease",24
+100,53,15,4,1,"Male","Disease",31
+101,44,5,4,1,"Male","No Disease",24
+102,89,1,4,1,"Male","Disease",29
+104,63,16,4,1,"Male","Disease",29
+105,42,13,4,1,"Male","Disease",29
+106,52,24,4,1,"Male","Disease",28
+107,89,13,4,1,"Male","No Disease",25
+112,71,9,4,1,"Male","Disease",31
+113,52,28,4,1,"Female","Disease",29
+114,56,28,4,1,"Female","Disease",30
+115,73,12,4,1,"Female","Disease",30
+117,47,11,4,1,"Male","Disease",28
+120,43,7,4,1,"Male","Disease",30
+122,86,16,4,1,"Female","Disease",30
+123,43,21,4,1,"Male","Disease",29
+127,44,26,4,1,"Male","Disease",29
+129,84,16,4,1,"Male","Disease",29
+130,53,8,4,1,"Male","Disease",31
+131,71,24,4,1,"Male","Disease",30
+133,40,2,4,1,"Female","Disease",27
+135,63,18,4,1,"Male","Disease",29
+145,56,23,4,1,"Male","Disease",28
+149,86,29,4,1,"Male","No Disease",26
+151,44,15,4,1,"Female","Disease",29
+155,41,16,4,1,"Male","Disease",29
+157,42,30,4,1,"Male","Disease",28
+159,63,10,4,1,"Female","No Disease",26
+168,53,6,4,1,"Male","No Disease",26
+174,47,11,4,1,"Female","Disease",30
+183,41,8,4,1,"Female","No Disease",22
+188,42,16,4,1,"Male","Disease",30
+190,73,18,4,1,"Male","Disease",29
+193,87,1,4,1,"Male","No Disease",25
+197,133,13,5,1,"Female","Disease",29
+198,131,14,5,1,"Female","Disease",30
+206,114,27,5,1,"Female","Disease",30
+208,133,20,5,1,"Male","Disease",29
+209,145,17,5,1,"Male","Disease",30
+211,112,1,5,1,"Female","No Disease",25
+214,168,13,5,1,"Male","No Disease",25
+220,151,27,5,1,"Male","No Disease",25
+230,174,18,5,1,"Female","Disease",29
+232,102,4,5,1,"Male","Disease",31
+234,159,21,5,1,"Male","No Disease",25
+235,95,22,5,1,"Male","Disease",29
+239,105,30,5,1,"Female","Disease",28
+241,122,19,5,1,"Male","Disease",30
+242,131,20,5,1,"Male","Disease",29
+246,168,22,5,1,"Female","No Disease",25
+250,183,23,5,1,"Male","No Disease",24
+253,188,4,5,1,"Male","No Disease",24
+254,123,13,5,1,"Female","Disease",30
+257,149,30,5,1,"Male","No Disease",25
+259,151,19,5,1,"Female","Disease",30
+264,131,10,5,1,"Female","Disease",30
+266,117,13,5,1,"Female","Disease",30
+273,120,10,5,1,"Female","No Disease",23
+274,102,11,5,1,"Female","No Disease",24
+277,135,5,5,1,"Male","Disease",29
+279,190,28,5,1,"Male","Disease",27
+283,122,28,5,1,"Female","Disease",29
+284,106,19,5,1,"Male","Disease",28
+286,115,5,5,1,"Male","Disease",31
+288,190,27,5,1,"Female","No Disease",26
+290,104,29,5,1,"Female","Disease",29
+291,122,18,5,1,"Male","Disease",30
+295,129,7,5,1,"Female","Disease",28
+296,151,4,5,1,"Male","Disease",29
+305,112,12,5,1,"Female","No Disease",24
+309,117,3,5,1,"Male","Disease",28
+312,94,20,5,1,"Male","Disease",28
+316,107,19,5,1,"Male","Disease",30
+320,135,28,5,1,"Male","Disease",29
+326,106,21,5,1,"Female","Disease",30
+328,106,9,5,1,"Male","Disease",31
+332,99,4,5,1,"Female","Disease",31
+334,145,8,5,1,"Female","Disease",29
+335,113,13,5,1,"Male","Disease",30
+341,183,7,5,1,"Male","No Disease",22
+344,107,2,5,1,"Male","No Disease",25
+345,129,15,5,1,"Male","Disease",29
+346,95,6,5,1,"Female","No Disease",25
+349,105,19,5,1,"Female","Disease",30
+350,133,5,5,1,"Male","Disease",30
+356,155,28,5,1,"Male","Disease",30
+358,99,21,5,1,"Male","Disease",29
+360,157,7,5,1,"Male","Disease",28
+361,183,7,5,1,"Male","Disease",28
+362,120,1,5,1,"Female","Disease",28
+364,193,24,5,1,"Female","No Disease",26
+367,129,5,5,1,"Male","No Disease",23
+368,94,4,5,1,"Male","No Disease",24
+370,127,21,5,1,"Male","Disease",29
+373,149,7,5,1,"Male","No Disease",25
+376,127,15,5,1,"Female","No Disease",24
+377,117,6,5,1,"Female","Disease",30
+382,107,15,5,1,"Male","No Disease",25
+383,130,8,5,1,"Female","Disease",30
+386,100,25,5,1,"Male","Disease",29
+390,174,3,5,1,"Male","Disease",30
+395,101,26,5,1,"Female","Disease",29
+397,105,14,5,1,"Female","Disease",31
+399,101,2,5,1,"Male","Disease",30
+400,120,14,5,1,"Male","Disease",29
+402,358,25,6,1,"Male","Disease",31
+403,400,24,6,1,"Male","Disease",30
+407,211,18,6,1,"Male","No Disease",24
+408,209,18,6,1,"Female","Disease",31
+411,309,19,6,1,"Male","No Disease",24
+412,242,27,6,1,"Female","No Disease",26
+415,368,17,6,1,"Female","No Disease",24
+420,235,16,6,1,"Female","No Disease",26
+422,397,9,6,1,"Female","Disease",31
+426,273,13,6,1,"Female","No Disease",25
+433,241,27,6,1,"Male","No Disease",24
+435,198,11,6,1,"Female","No Disease",25
+438,397,21,6,1,"Female","Disease",29
+442,345,22,6,1,"Male","Disease",29
+443,328,28,6,1,"Female","No Disease",24
+452,344,28,6,1,"Female","No Disease",25
+458,383,13,6,1,"Female","No Disease",25
+461,316,4,6,1,"Male","Disease",30
+464,279,19,6,1,"Female","Disease",28
+466,390,18,6,1,"Male","Disease",30
+467,264,10,6,1,"Male","Disease",30
+472,360,13,6,1,"Female","Disease",29
+473,206,3,6,1,"Male","Disease",30
+475,358,15,6,1,"Female","Disease",31
+478,288,23,6,1,"Male","Disease",32
+483,239,5,6,1,"Female","Disease",28
+485,288,11,6,1,"Female","Disease",31
+486,286,25,6,1,"Male","No Disease",24
+488,370,13,6,1,"Male","Disease",28
+490,284,14,6,1,"Female","Disease",30
+492,254,12,6,1,"Male","Disease",29
+494,349,4,6,1,"Male","Disease",32
+2,0,6,0,2,"Male","Disease",30
+11,2,18,1,2,"Male","No Disease",25
+14,2,23,1,2,"Male","Disease",29
+21,11,27,2,2,"Female","Disease",30
+26,14,19,2,2,"Female","Disease",29
+27,14,13,2,2,"Female","Disease",29
+29,11,21,2,2,"Male","No Disease",25
+35,11,20,2,2,"Male","No Disease",26
+37,14,29,2,2,"Male","Disease",29
+39,27,27,3,2,"Male","Disease",29
+45,26,22,3,2,"Female","No Disease",23
+51,35,27,3,2,"Female","Disease",30
+54,35,2,3,2,"Female","No Disease",25
+65,35,2,3,2,"Female","Disease",30
+66,21,8,3,2,"Male","Disease",30
+67,37,18,3,2,"Male","Disease",28
+70,29,18,3,2,"Male","No Disease",24
+74,29,16,3,2,"Male","No Disease",24
+77,37,29,3,2,"Female","Disease",31
+79,27,30,3,2,"Male","Disease",28
+82,27,9,3,2,"Male","Disease",29
+88,37,12,3,2,"Male","Disease",31
+92,51,29,4,2,"Male","No Disease",24
+93,77,23,4,2,"Male","No Disease",24
+96,88,13,4,2,"Male","Disease",32
+103,39,13,4,2,"Female","No Disease",26
+109,54,27,4,2,"Male","Disease",32
+119,70,4,4,2,"Male","No Disease",24
+121,79,5,4,2,"Male","Disease",28
+126,54,12,4,2,"Female","No Disease",23
+136,54,15,4,2,"Female","No Disease",24
+137,65,14,4,2,"Male","No Disease",24
+138,66,20,4,2,"Female","No Disease",25
+141,67,3,4,2,"Female","Disease",29
+142,51,14,4,2,"Male","Disease",29
+143,65,29,4,2,"Male","Disease",30
+144,67,23,4,2,"Male","Disease",29
+146,45,3,4,2,"Male","No Disease",23
+154,51,1,4,2,"Male","Disease",28
+165,74,20,4,2,"Female","Disease",29
+167,67,5,4,2,"Female","Disease",28
+170,70,7,4,2,"Female","Disease",28
+172,77,27,4,2,"Male","Disease",29
+176,66,28,4,2,"Female","Disease",28
+178,82,16,4,2,"Male","Disease",28
+180,77,9,4,2,"Female","Disease",29
+187,74,12,4,2,"Male","Disease",31
+192,39,26,4,2,"Female","Disease",30
+194,137,30,5,2,"Female","No Disease",26
+195,93,6,5,2,"Male","No Disease",25
+199,121,15,5,2,"Female","No Disease",23
+203,165,11,5,2,"Male","Disease",29
+205,172,19,5,2,"Female","Disease",31
+215,103,8,5,2,"Male","Disease",29
+216,180,3,5,2,"Male","Disease",30
+217,154,28,5,2,"Male","Disease",29
+218,178,24,5,2,"Female","Disease",29
+222,146,4,5,2,"Male","No Disease",26
+226,126,24,5,2,"Male","Disease",30
+229,178,4,5,2,"Female","Disease",27
+237,136,18,5,2,"Female","Disease",29
+238,142,2,5,2,"Male","Disease",28
+247,109,15,5,2,"Female","No Disease",25
+251,165,24,5,2,"Male","Disease",28
+255,92,5,5,2,"Male","No Disease",23
+256,119,8,5,2,"Female","No Disease",24
+261,142,6,5,2,"Male","Disease",31
+270,167,20,5,2,"Male","Disease",28
+271,143,29,5,2,"Female","Disease",30
+275,143,3,5,2,"Female","Disease",29
+278,138,23,5,2,"Male","No Disease",26
+282,126,1,5,2,"Male","Disease",29
+294,103,24,5,2,"Male","Disease",32
+299,154,30,5,2,"Male","Disease",30
+306,141,4,5,2,"Female","Disease",28
+307,92,13,5,2,"Male","Disease",29
+308,93,18,5,2,"Male","Disease",30
+314,141,1,5,2,"Male","Disease",30
+315,165,3,5,2,"Male","No Disease",26
+319,170,26,5,2,"Female","Disease",30
+324,136,29,5,2,"Male","No Disease",25
+325,167,14,5,2,"Male","Disease",29
+330,96,8,5,2,"Male","Disease",30
+331,109,14,5,2,"Male","Disease",30
+336,146,25,5,2,"Male","Disease",30
+337,146,19,5,2,"Male","No Disease",24
+338,178,5,5,2,"Male","Disease",28
+339,187,1,5,2,"Male","Disease",31
+340,92,29,5,2,"Female","Disease",31
+351,187,13,5,2,"Female","Disease",29
+352,176,17,5,2,"Male","No Disease",23
+354,143,4,5,2,"Female","No Disease",24
+359,167,22,5,2,"Male","No Disease",24
+378,144,13,5,2,"Male","Disease",29
+379,103,28,5,2,"Male","No Disease",25
+385,109,4,5,2,"Male","Disease",29
+389,192,27,5,2,"Male","Disease",31
+391,192,16,5,2,"Male","Disease",31
+392,176,4,5,2,"Female","Disease",30
+394,142,1,5,2,"Female","Disease",30
+401,325,17,6,2,"Female","Disease",30
+406,217,4,6,2,"Male","Disease",28
+409,216,12,6,2,"Female","No Disease",23
+413,195,6,6,2,"Female","Disease",29
+414,278,2,6,2,"Female","Disease",29
+416,299,30,6,2,"Male","Disease",30
+417,282,5,6,2,"Female","No Disease",23
+419,237,4,6,2,"Male","Disease",30
+421,330,24,6,2,"Female","Disease",31
+428,319,10,6,2,"Male","Disease",29
+431,270,14,6,2,"Female","Disease",28
+432,194,2,6,2,"Female","No Disease",25
+434,359,2,6,2,"Male","Disease",28
+437,294,18,6,2,"Female","No Disease",25
+441,338,20,6,2,"Female","Disease",30
+444,194,23,6,2,"Male","No Disease",25
+445,255,25,6,2,"Female","No Disease",23
+449,226,14,6,2,"Female","Disease",30
+453,282,17,6,2,"Female","Disease",30
+456,215,21,6,2,"Male","No Disease",24
+459,308,17,6,2,"Female","Disease",31
+460,359,12,6,2,"Female","Disease",28
+463,226,12,6,2,"Female","Disease",29
+465,237,10,6,2,"Female","Disease",30
+469,391,15,6,2,"Female","Disease",30
+474,308,10,6,2,"Female","Disease",29
+476,203,20,6,2,"Female","Disease",30
+479,336,6,6,2,"Female","No Disease",25
+482,351,3,6,2,"Male","Disease",30
+484,352,7,6,2,"Female","No Disease",23
+487,203,26,6,2,"Male","Disease",29
+491,307,3,6,2,"Male","Disease",31
+498,271,5,6,2,"Female","Disease",28
+3,0,18,0,3,"Male","No Disease",25
+9,3,30,1,3,"Female","No Disease",26
+16,9,14,2,3,"Female","No Disease",24
+30,9,15,2,3,"Male","No Disease",26
+38,9,28,2,3,"Male","No Disease",25
+50,16,21,3,3,"Male","Disease",31
+57,16,27,3,3,"Male","Disease",29
+59,30,7,3,3,"Female","Disease",29
+60,30,3,3,3,"Male","No Disease",24
+61,16,12,3,3,"Male","No Disease",24
+68,38,15,3,3,"Female","No Disease",24
+76,38,21,3,3,"Female","No Disease",26
+78,38,13,3,3,"Female","No Disease",24
+80,30,6,3,3,"Male","No Disease",26
+91,80,15,4,3,"Female","Disease",32
+110,50,11,4,3,"Female","Disease",30
+125,61,4,4,3,"Female","No Disease",26
+132,60,23,4,3,"Female","Disease",30
+134,76,8,4,3,"Male","No Disease",25
+139,76,19,4,3,"Male","Disease",30
+147,80,1,4,3,"Female","No Disease",24
+156,68,9,4,3,"Male","Disease",29
+158,59,9,4,3,"Female","Disease",30
+164,59,7,4,3,"Male","Disease",29
+166,57,4,4,3,"Female","Disease",30
+173,59,29,4,3,"Male","Disease",29
+175,78,6,4,3,"Male","No Disease",25
+179,76,29,4,3,"Male","No Disease",24
+184,61,9,4,3,"Male","Disease",30
+185,60,6,4,3,"Female","No Disease",25
+186,68,15,4,3,"Male","No Disease",26
+196,134,26,5,3,"Female","Disease",31
+200,110,14,5,3,"Male","No Disease",25
+202,91,21,5,3,"Female","Disease",32
+207,147,29,5,3,"Female","No Disease",23
+210,184,17,5,3,"Male","No Disease",25
+212,110,2,5,3,"Male","Disease",30
+219,173,13,5,3,"Male","Disease",30
+221,158,26,5,3,"Female","Disease",29
+223,156,14,5,3,"Female","Disease",30
+224,134,16,5,3,"Male","Disease",29
+225,184,11,5,3,"Male","Disease",32
+236,173,11,5,3,"Male","Disease",29
+244,134,25,5,3,"Male","Disease",28
+245,175,8,5,3,"Male","No Disease",27
+252,186,24,5,3,"Male","No Disease",25
+265,132,23,5,3,"Female","Disease",29
+267,139,28,5,3,"Female","Disease",30
+272,110,16,5,3,"Female","Disease",28
+281,185,20,5,3,"Male","No Disease",25
+285,132,11,5,3,"Male","Disease",32
+287,147,17,5,3,"Male","No Disease",25
+297,158,23,5,3,"Male","Disease",29
+300,125,12,5,3,"Male","Disease",29
+301,164,21,5,3,"Male","Disease",28
+310,173,6,5,3,"Female","No Disease",23
+311,184,23,5,3,"Female","Disease",29
+322,164,23,5,3,"Female","Disease",29
+343,91,27,5,3,"Male","No Disease",24
+348,186,6,5,3,"Male","No Disease",25
+363,91,26,5,3,"Female","No Disease",26
+366,125,7,5,3,"Male","No Disease",24
+369,139,11,5,3,"Male","No Disease",26
+371,179,2,5,3,"Female","No Disease",24
+372,147,28,5,3,"Male","No Disease",24
+374,179,9,5,3,"Male","Disease",30
+381,175,16,5,3,"Male","No Disease",22
+384,164,29,5,3,"Female","Disease",29
+388,139,4,5,3,"Female","Disease",30
+398,166,11,5,3,"Male","Disease",28
+423,265,30,6,3,"Male","Disease",29
+427,225,6,6,3,"Male","No Disease",26
+436,301,17,6,3,"Female","Disease",30
+440,196,28,6,3,"Male","Disease",30
+446,398,1,6,3,"Female","Disease",29
+447,212,16,6,3,"Male","Disease",30
+454,252,22,6,3,"Female","Disease",30
+462,265,9,6,3,"Female","No Disease",25
+468,322,11,6,3,"Female","Disease",30
+470,363,5,6,3,"Female","Disease",30
+480,369,4,6,3,"Male","Disease",30
+495,202,4,6,3,"Male","Disease",32
+497,196,1,6,3,"Male","Disease",29
+499,366,24,6,3,"Female","No Disease",24
+500,272,21,6,3,"Male","No Disease",23
+4,0,22,0,4,"Female","Disease",30
+7,4,15,1,4,"Male","Disease",30
+18,7,10,2,4,"Male","No Disease",24
+31,7,25,2,4,"Female","Disease",29
+36,7,24,2,4,"Female","Disease",29
+48,18,29,3,4,"Male","No Disease",25
+55,36,6,3,4,"Male","Disease",28
+58,36,8,3,4,"Female","Disease",29
+62,18,14,3,4,"Male","No Disease",25
+72,31,17,3,4,"Female","Disease",28
+83,31,19,3,4,"Male","Disease",29
+85,31,19,3,4,"Male","Disease",28
+90,55,25,4,4,"Female","Disease",28
+97,83,8,4,4,"Female","Disease",29
+98,83,29,4,4,"Male","Disease",28
+111,62,13,4,4,"Female","Disease",28
+116,58,7,4,4,"Male","Disease",31
+124,48,8,4,4,"Male","No Disease",23
+128,58,28,4,4,"Male","Disease",29
+140,85,12,4,4,"Male","Disease",30
+150,72,17,4,4,"Male","Disease",30
+153,72,19,4,4,"Female","Disease",29
+161,72,1,4,4,"Male","Disease",29
+171,62,2,4,4,"Female","No Disease",24
+177,85,18,4,4,"Male","Disease",30
+181,55,21,4,4,"Female","Disease",30
+182,62,16,4,4,"Female","No Disease",24
+191,83,17,4,4,"Female","Disease",28
+201,161,6,5,4,"Female","Disease",30
+213,98,30,5,4,"Male","No Disease",23
+227,128,16,5,4,"Female","Disease",28
+228,90,20,5,4,"Male","Disease",28
+231,191,23,5,4,"Male","Disease",30
+233,124,24,5,4,"Male","Disease",29
+249,181,1,5,4,"Male","Disease",29
+260,161,9,5,4,"Male","No Disease",25
+262,177,27,5,4,"Female","Disease",29
+268,140,26,5,4,"Female","No Disease",23
+269,153,20,5,4,"Male","Disease",30
+276,124,16,5,4,"Female","Disease",30
+289,124,15,5,4,"Male","No Disease",25
+293,98,7,5,4,"Male","Disease",29
+298,153,7,5,4,"Male","Disease",28
+302,111,27,5,4,"Male","Disease",30
+303,177,13,5,4,"Female","Disease",30
+317,191,15,5,4,"Male","Disease",29
+318,177,23,5,4,"Female","Disease",29
+323,116,10,5,4,"Male","Disease",30
+327,150,3,5,4,"Female","Disease",29
+329,153,5,5,4,"Male","Disease",28
+333,97,5,5,4,"Female","Disease",32
+342,90,23,5,4,"Female","Disease",28
+355,90,8,5,4,"Male","Disease",29
+365,98,2,5,4,"Female","Disease",30
+375,140,21,5,4,"Male","Disease",28
+380,182,28,5,4,"Female","Disease",30
+393,171,17,5,4,"Female","No Disease",24
+396,140,4,5,4,"Female","Disease",29
+404,227,27,6,4,"Female","Disease",31
+405,323,18,6,4,"Male","Disease",30
+424,317,16,6,4,"Male","Disease",29
+425,302,21,6,4,"Male","Disease",30
+429,276,9,6,4,"Male","Disease",30
+430,317,3,6,4,"Female","Disease",29
+439,231,23,6,4,"Female","Disease",29
+448,249,22,6,4,"Male","Disease",30
+450,302,24,6,4,"Female","Disease",30
+451,396,29,6,4,"Female","Disease",30
+457,233,17,6,4,"Male","No Disease",23
+471,323,27,6,4,"Male","Disease",29
+489,249,26,6,4,"Male","Disease",28
+5,0,8,0,5,"Male","Disease",29
+8,5,26,1,5,"Male","Disease",29
+10,5,29,1,5,"Male","Disease",29
+15,5,14,1,5,"Male","Disease",28
+19,10,15,2,5,"Female","Disease",29
+25,15,16,2,5,"Male","Disease",30
+32,8,9,2,5,"Female","No Disease",23
+33,8,16,2,5,"Female","No Disease",26
+46,33,18,3,5,"Male","No Disease",25
+49,32,29,3,5,"Male","No Disease",23
+64,33,22,3,5,"Male","Disease",28
+69,25,14,3,5,"Female","Disease",29
+75,19,16,3,5,"Male","Disease",30
+81,33,20,3,5,"Male","No Disease",25
+108,64,12,4,5,"Female","Disease",29
+118,69,21,4,5,"Female","Disease",30
+148,69,6,4,5,"Male","No Disease",26
+152,46,20,4,5,"Male","Disease",30
+160,46,21,4,5,"Male","Disease",29
+162,75,23,4,5,"Female","Disease",30
+163,49,27,4,5,"Male","No Disease",24
+169,46,3,4,5,"Male","No Disease",25
+189,81,24,4,5,"Male","No Disease",24
+204,118,18,5,5,"Female","Disease",28
+240,108,27,5,5,"Male","Disease",30
+243,169,22,5,5,"Male","No Disease",24
+248,189,1,5,5,"Female","No Disease",24
+258,148,2,5,5,"Female","No Disease",25
+263,160,5,5,5,"Female","Disease",29
+280,152,21,5,5,"Female","Disease",29
+292,189,23,5,5,"Female","Disease",30
+304,162,17,5,5,"Female","Disease",28
+313,118,24,5,5,"Male","Disease",29
+321,162,20,5,5,"Female","Disease",30
+347,108,4,5,5,"Male","Disease",28
+353,160,30,5,5,"Female","Disease",30
+357,163,21,5,5,"Male","Disease",28
+387,160,15,5,5,"Female","Disease",29
+410,263,20,6,5,"Female","Disease",29
+418,321,9,6,5,"Female","Disease",30
+455,204,25,6,5,"Female","Disease",29
+477,304,20,6,5,"Male","Disease",29
+481,243,22,6,5,"Female","Disease",29
+493,248,5,6,5,"Female","No Disease",22
+496,357,24,6,5,"Female","Disease",29
