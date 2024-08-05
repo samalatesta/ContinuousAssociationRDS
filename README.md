@@ -12,9 +12,6 @@ This directory contains `SPRTCA_example.Rmd` that includes code and documentatio
 #### `\sim` 
 This directory contains code for simulating RDS data, code to run the simulation settings we included in the paper, and code that plots all simulation results. 
 
-#### `\application` 
-This directory contains the code for the application section of the paper where we applied SPRTCA to an RDS data set of people who smoke illicit drugs in a rural community in South Africa. 
-
 ## Contact
 
 For questions, please contact:
