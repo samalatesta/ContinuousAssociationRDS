@@ -26,7 +26,7 @@ data <- read.csv("C:/Users/smala/Documents/Thesis/ContinuousAssociationRDS/examp
 head(data)
 
 #coerce data to RDS data frame (required for analysis)
-data <- as.rds.data.frame(df=data,id="id",
+data_rds <- as.rds.data.frame(df=data,id="id",
                           recruiter.id="rec.id",
                           network.size="degree",
                           population.size=15000)
@@ -116,8 +116,8 @@ sprtca <-function(iter, character.var, numeric.var, net){
   p.value.mc <- (b+1)/(length(permuted.res)+1)
   
   print(paste0("SPRTCA p-value = ", p.value.mc))
-  print("Homophily for variable 1 = ")
-  print("Homophily for variable 2 = ")
+ # print("Homophily for variable 1 = ")
+  #print("Homophily for variable 2 = ")
   #return(list(obs.pval, obs.res,p.value.mc, permuted.res,r, mean_numeric.var, sd_numeric.var))
 }
 
@@ -132,15 +132,15 @@ sprtca <-function(iter, character.var, numeric.var, net){
 
 #association between age and disease
 #ttest
-t.test(data$age[data$disease=="Disease"], data$age[data$disease=="No Disease"], var.equal = T)
+t.test(data_rds$age[data_rds$disease=="Disease"], data_rds$age[data_rds$disease=="No Disease"], var.equal = T)
 #SPRTCA
-sprtca(1000, "disease", "age", data)
+sprtca(1000, "disease", "age", data_rds)
 
 #association between sex and age
 #ttest
-t.test(data$age[data$sex == "Male"], data$age[data$sex=="Female"], var.equal = T)
+t.test(data_rds$age[data_rds$sex == "Male"], data_rds$age[data_rds$sex=="Female"], var.equal = T)
 #SPRTCA
-sprtca(1000, "sex", "age", data)
+sprtca(1000, "sex", "age", data_rds)
 
 ```
 
